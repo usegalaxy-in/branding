@@ -8,60 +8,63 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="galaxy-in-logo.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   version="1.1"
-   id="svg4713"
-   viewBox="0 0 354.33071 354.33071"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="/home/CD/CLPB/GitRepos/gh/branding/galaxy-in-logo.png"
+   width="100mm"
    height="100mm"
-   width="100mm">
+   viewBox="0 0 354.33071 354.33071"
+   id="svg4713"
+   version="1.1"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="galaxy-in-logo.svg">
   <defs
      id="defs4715">
     <linearGradient
-       id="linearGradient843"
-       inkscape:collect="always">
+       inkscape:collect="always"
+       id="linearGradient843">
       <stop
-         id="stop839"
+         style="stop-color:#138808;stop-opacity:1"
          offset="0"
-         style="stop-color:#138808;stop-opacity:1" />
+         id="stop839" />
       <stop
-         id="stop841"
+         style="stop-color:#d0bd2a;stop-opacity:0;"
          offset="1"
-         style="stop-color:#d0bd2a;stop-opacity:0;" />
+         id="stop841" />
     </linearGradient>
     <linearGradient
-       y2="600.07568"
-       x2="-100.90461"
-       y1="599.56458"
-       x1="-178.9908"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient847"
+       inkscape:collect="always"
        xlink:href="#linearGradient843"
-       inkscape:collect="always" />
+       id="linearGradient847"
+       gradientUnits="userSpaceOnUse"
+       x1="-178.9908"
+       y1="599.56458"
+       x2="-100.90461"
+       y2="600.07568" />
   </defs>
   <sodipodi:namedview
-     inkscape:document-rotation="0"
-     inkscape:window-maximized="1"
-     inkscape:window-y="372"
-     inkscape:window-x="0"
-     inkscape:window-height="1136"
-     inkscape:window-width="1920"
-     fit-margin-bottom="10"
-     fit-margin-right="10"
-     fit-margin-left="10"
-     fit-margin-top="10"
-     showgrid="false"
-     inkscape:current-layer="g4147"
-     inkscape:document-units="px"
-     inkscape:cy="129.14239"
-     inkscape:cx="48.31148"
-     inkscape:zoom="1.4"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="12.240051"
+     inkscape:cy="129.14239"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4147"
+     showgrid="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="372"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata4718">
     <rdf:RDF>
@@ -75,43 +78,43 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(426.4042,-312.08537)"
-     id="layer1"
+     inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     inkscape:label="Ebene 1">
+     id="layer1"
+     transform="translate(426.4042,-312.08537)">
     <g
-       transform="translate(-1.4285714,-30)"
-       id="g4147">
+       id="g4147"
+       transform="translate(-1.4285714,-30)">
       <rect
-         y="399.87881"
-         x="-390.97113"
-         height="65.958954"
-         width="220.24062"
-         id="rect4296-8-6-1"
-         style="fill:#ff9933;fill-opacity:0.99999994"
-         inkscape:export-xdpi="180"
-         inkscape:export-ydpi="180" />
-      <rect
-         y="483.37146"
-         x="-390.97113"
-         height="65.109695"
-         width="165.32201"
-         id="rect4298-04-0-03"
-         style="fill:#ffffff;fill-opacity:1"
-         inkscape:export-xdpi="180"
-         inkscape:export-ydpi="180" />
-      <path
-         inkscape:connector-curvature="0"
-         id="rect4300-2-6-7"
-         d="m -339.8895,567.00564 238.9611,0 0,63.97736 -238.9611,0 z"
-         style="fill:url(#linearGradient847);fill-opacity:1"
-         inkscape:export-xdpi="180"
          inkscape:export-ydpi="180"
-         sodipodi:nodetypes="ccccc" />
+         inkscape:export-xdpi="180"
+         style="fill:#ff9933;fill-opacity:0.99999994"
+         id="rect4296-8-6-1"
+         width="220.24062"
+         height="65.958954"
+         x="-390.97113"
+         y="399.87881" />
+      <rect
+         inkscape:export-ydpi="180"
+         inkscape:export-xdpi="180"
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect4298-04-0-03"
+         width="165.32201"
+         height="65.109695"
+         x="-390.97113"
+         y="483.37146" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-ydpi="180"
+         inkscape:export-xdpi="180"
+         style="fill:url(#linearGradient847);fill-opacity:1"
+         d="m -339.8895,567.00564 238.9611,0 0,63.97736 -238.9611,0 z"
+         id="rect4300-2-6-7"
+         inkscape:connector-curvature="0" />
     </g>
     <g
-       id="text4337-9-26-88"
+       transform="scale(1.0108768,0.98924024)"
        style="font-style:normal;font-weight:normal;font-size:75.2293396px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#003399;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="scale(1.0108768,0.98924024)" />
+       id="text4337-9-26-88" />
   </g>
 </svg>
