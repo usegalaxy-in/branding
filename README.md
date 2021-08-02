@@ -3,10 +3,11 @@ This project for the branding resources of Galaxy India, which is taking up even
 
 
 ===========================
-Master branch has been renamed to main for your local repository use these commands:
+### Master branch has been renamed to main for your local repository use these commands:
 
-
+```
 git branch -m master main
 git fetch origin
 git branch -u origin/main main
 git remote set-head origin -a
+```
