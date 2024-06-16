@@ -12,7 +12,13 @@ git fetch origin
 git branch -u origin/main main
 git remote set-head origin -a
 ```
+## Information 
 
+- The repository contains logos in various sizes, with each logo's name indicating its specific size.
+- [Canva Link - Edit access with Dr. Kiran K Telukunta](https://www.canva.com/design/DAGISzlubXw/tf8Cxmjt048AW0zUgzDGyQ/edit?utm_content=DAGISzlubXw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
+===========================
 
 ## Folder structure
 
