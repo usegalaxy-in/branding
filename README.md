@@ -5,7 +5,7 @@ This project for the branding resources of Galaxy India, which is taking up even
 
 - The repository contains logos in various sizes, with each logo's name indicating its specific size.
 - Most of the images are generated with Canva
-- Th edit access to [Canva image pages](https://www.canva.com/design/DAGISzlubXw/tf8Cxmjt048AW0zUgzDGyQ/edit?utm_content=DAGISzlubXw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) is with [Dr. Kiran K Telukunta](https://github.com/telukir) and [Shreya Agarwal](https://github.com/ShreyaA83). However, please feel free to do in different ways and submit pull request for review.
+- Th edit access to [Canva image pages](https://www.canva.com/design/DAGISzlubXw/tf8Cxmjt048AW0zUgzDGyQ/edit?utm_content=DAGISzlubXw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) is with [Kiran K Telukunta](https://github.com/telukir) and [Shreya Agarwal](https://github.com/ShreyaA83). However, please feel free to do in different ways and submit pull request for review.
 - If you have older master branch please follow the steps given the Branch master to main
 
 
